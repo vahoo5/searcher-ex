@@ -1,0 +1,8 @@
+/Users/retek/Desktop/searcher-examples-new/target/debug/deps/libsolana_config_program-447f8fc3557a2137.rmeta: /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-config-program-2.2.1/src/lib.rs /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-config-program-2.2.1/src/config_instruction.rs /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-config-program-2.2.1/src/config_processor.rs /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-config-program-2.2.1/src/date_instruction.rs
+
+/Users/retek/Desktop/searcher-examples-new/target/debug/deps/solana_config_program-447f8fc3557a2137.d: /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-config-program-2.2.1/src/lib.rs /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-config-program-2.2.1/src/config_instruction.rs /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-config-program-2.2.1/src/config_processor.rs /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-config-program-2.2.1/src/date_instruction.rs
+
+/Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-config-program-2.2.1/src/lib.rs:
+/Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-config-program-2.2.1/src/config_instruction.rs:
+/Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-config-program-2.2.1/src/config_processor.rs:
+/Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-config-program-2.2.1/src/date_instruction.rs:

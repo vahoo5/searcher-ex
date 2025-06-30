@@ -1,0 +1,13 @@
+/Users/retek/Desktop/searcher-examples-new/target/debug/deps/libblake3-5f016d868bcf444b.rmeta: /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/blake3-1.8.2/src/lib.rs /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/blake3-1.8.2/src/guts.rs /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/blake3-1.8.2/src/hazmat.rs /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/blake3-1.8.2/src/platform.rs /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/blake3-1.8.2/src/ffi_neon.rs /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/blake3-1.8.2/src/portable.rs /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/blake3-1.8.2/src/traits.rs /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/blake3-1.8.2/src/io.rs /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/blake3-1.8.2/src/join.rs
+
+/Users/retek/Desktop/searcher-examples-new/target/debug/deps/blake3-5f016d868bcf444b.d: /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/blake3-1.8.2/src/lib.rs /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/blake3-1.8.2/src/guts.rs /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/blake3-1.8.2/src/hazmat.rs /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/blake3-1.8.2/src/platform.rs /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/blake3-1.8.2/src/ffi_neon.rs /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/blake3-1.8.2/src/portable.rs /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/blake3-1.8.2/src/traits.rs /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/blake3-1.8.2/src/io.rs /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/blake3-1.8.2/src/join.rs
+
+/Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/blake3-1.8.2/src/lib.rs:
+/Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/blake3-1.8.2/src/guts.rs:
+/Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/blake3-1.8.2/src/hazmat.rs:
+/Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/blake3-1.8.2/src/platform.rs:
+/Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/blake3-1.8.2/src/ffi_neon.rs:
+/Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/blake3-1.8.2/src/portable.rs:
+/Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/blake3-1.8.2/src/traits.rs:
+/Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/blake3-1.8.2/src/io.rs:
+/Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/blake3-1.8.2/src/join.rs:

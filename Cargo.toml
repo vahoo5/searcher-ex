@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "jito_protos",
+    "searcher_client",
+]
+resolver = "2"
