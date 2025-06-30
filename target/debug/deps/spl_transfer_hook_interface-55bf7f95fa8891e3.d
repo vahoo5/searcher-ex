@@ -1,9 +1,0 @@
-/Users/retek/Desktop/searcher-examples-new/target/debug/deps/libspl_transfer_hook_interface-55bf7f95fa8891e3.rmeta: /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.9.0/src/lib.rs /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.9.0/src/error.rs /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.9.0/src/instruction.rs /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.9.0/src/offchain.rs /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.9.0/src/onchain.rs
-
-/Users/retek/Desktop/searcher-examples-new/target/debug/deps/spl_transfer_hook_interface-55bf7f95fa8891e3.d: /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.9.0/src/lib.rs /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.9.0/src/error.rs /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.9.0/src/instruction.rs /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.9.0/src/offchain.rs /Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.9.0/src/onchain.rs
-
-/Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.9.0/src/lib.rs:
-/Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.9.0/src/error.rs:
-/Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.9.0/src/instruction.rs:
-/Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.9.0/src/offchain.rs:
-/Users/retek/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-transfer-hook-interface-0.9.0/src/onchain.rs:
