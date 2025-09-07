@@ -5,11 +5,9 @@ use std::{
 };
 
 use bincode::serialize;
-use solana_perf::packet::{Packet, PacketBatch, PACKET_DATA_SIZE};
-use solana_sdk::{
-    packet::{Meta, PacketFlags},
-    transaction::VersionedTransaction,
-};
+use solana_perf::packet::{Packet, PacketBatch, PacketRef, PACKET_DATA_SIZE};
+use solana_sdk::transaction::VersionedTransaction;
+use solana_packet::{Meta, PacketFlags};
 
 use crate::{
     packet::{
@@ -21,7 +19,7 @@ use crate::{
 
 /// Converts a Solana packet to a protobuf packet
 /// NOTE: the packet.data() function will filter packets marked for discard
-pub fn packet_to_proto_packet(p: &Packet) -> Option<ProtoPacket> {
+pub fn packet_to_proto_packet(p: PacketRef) -> Option<ProtoPacket> {
     Some(ProtoPacket {
         data: p.data(..)?.to_vec(),
         meta: Some(ProtoMeta {
